@@ -1,3 +1,5 @@
+#https://github.com/ONETAPL3G3ND
+
 import discord
 from discord import utils
 from discord.ext import commands
